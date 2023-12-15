@@ -1,0 +1,13 @@
+mixup: 0.1
+mosaic: 0.3
+names:
+  0: B0
+  1: B1
+  2: H0
+  3: H1
+  4: M0
+  5: M1
+nc: 6
+seed: 0
+train: C:/Users/user/Desktop/yolo_train/yolo_data/train/ # 경로 따로 지정 
+val: C:/Users/user/Desktop/yolo_train/yolo_data/valid/   # 경로 따로 지정 
